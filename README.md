@@ -23,8 +23,9 @@ Football reservation tickets is an online e-commerce web application for buying 
      • The shopping cart of the user with selected games and calculated total price.
 
 First, the main home page shows today's headlines about the world cup, along with the results and list of the best goalscorers.
-
+![slika1](https://cloud.githubusercontent.com/assets/6113453/6195802/dc022b6c-b3d1-11e4-87b4-064b6f1821a8.png)
 The user can Log in or Sign Up (if he doesn't have already account in the database). After the succesfull loging in our system, we give list of his selected items and bying options. He also can buy more tickets and unbuy any of it, if he decide that he can't go to that match.
+![slika2](https://cloud.githubusercontent.com/assets/6113453/6195806/e8e23f8e-b3d1-11e4-83ff-1a124130f103.png)
 
 
     3. Solution of the problem
