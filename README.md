@@ -9,18 +9,18 @@ Authors of the game:
     • Viktor Ilieski
 
 
-   1. Overview
+    1. Overview
 
 This project exam was about learning concepts in web programming with ASP.NET platform and C# programming language. The main goal that we wanted to achieve was examing the 
 
 
-   2. Description of the application
+        2. Description of the application
 
 Football reservation tickets is an online e-commerce web application for buying and reservation of football tickets for the 2014 World Cup in Brazil. There are several parts that are presented:
 
-     • The list of all football matches playing today and in the next 7 days.
-     
-     • The shopping cart of the user with selected games and calculated total price.
+• The list of all football matches playing today and in the next 7 days.
+
+• The shopping cart of the user with selected games and calculated total price.
 
 First, the main home page shows today's headlines about the world cup, along with the results and list of the best goalscorers.
 ![slika1](https://cloud.githubusercontent.com/assets/6113453/6195802/dc022b6c-b3d1-11e4-87b4-064b6f1821a8.png)
@@ -28,8 +28,8 @@ The user can Log in or Sign Up (if he doesn't have already account in the databa
 ![slika2](https://cloud.githubusercontent.com/assets/6113453/6195806/e8e23f8e-b3d1-11e4-83ff-1a124130f103.png)
 
 
-    3. Solution of the problem
-    3.1 Data structures and classes
+     3. Solution of the problem
+        3.1 Data structures and classes
 
 For our solution we used several important classes and methods. The main classes presents: Player, Group and Match.
 
