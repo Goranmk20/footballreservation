@@ -9,12 +9,13 @@ Authors of the game:
     • Viktor Ilieski
 
 
+
     1. Overview
 
 This project exam was about learning concepts in web programming with ASP.NET platform and C# programming language. The main goal that we wanted to achieve was examing the 
 
 
-        2. Description of the application
+    2. Description of the application
 
 Football reservation tickets is an online e-commerce web application for buying and reservation of football tickets for the 2014 World Cup in Brazil. There are several parts that are presented:
 
